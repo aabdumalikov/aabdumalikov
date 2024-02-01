@@ -6,9 +6,6 @@
 ## Hi there 👋 I'm a Python developer
 
 
-## Telegram
-
-
 ## Technology stack
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" width="500" height="320" />
