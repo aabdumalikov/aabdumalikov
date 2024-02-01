@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="name.svg" alt="abdukulov"/>
+  <img src="name.svg" alt="abdumalikov"/>
 </h1>
 
 ## Hi there 👋 I'm a Python developer
