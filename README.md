@@ -13,15 +13,15 @@
 **Back-End**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQLite](https://shields.io/badge/-SQLite-Blue?style=for-the-badge&logo=SQLite&logoColor=blue)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-
 
 **Data Science**
 
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-ScikitLearn-yellow?style=for-the-badge&logo=scikit-learn&logoColor=black)
 
 **Tools**
 
