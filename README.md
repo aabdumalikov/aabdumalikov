@@ -8,7 +8,9 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="./image/animation_500_kxa883sd.gif" width="500" height="320" />
+<div>
+    <img src="./image/animation_500_kxa883sd.gif"/>
+</div>
 
 **Back-End**
 
