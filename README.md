@@ -5,22 +5,22 @@
 
 ## Hi there 👋 welcome to my Github
 
-<img src="./image/animation_500_kxa883sd.gif"/>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" width="500" height="320" />
 
-## Back-End
+**Back-End**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQLite](https://shields.io/badge/-SQLite-Blue?style=for-the-badge&logo=SQLite&logoColor=blue)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-## Data Science
+**Data Science**
 
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/-ScikitLearn-yellow?style=for-the-badge&logo=scikit-learn&logoColor=black)
 
-## Tools
+**Tools**
 
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
@@ -29,6 +29,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Git hub stats
 ### 🔥 Streak Stats & Languages
@@ -47,9 +49,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=aabdumalikov&row=1&theme=algolia"/>
 </p>
 
----
-### ⚡ Recent GitHub Activity
-[![aabdumalikov's github activity graph](https://activity-graph.herokuapp.com/graph?username=aabdumalikov&theme=react-dark)](https://github.com/aabdumalikov/github-readme-activity-graph)
 
 <p align="center">
 <img src='https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!!&center=true&color="A7D129"'/>
