@@ -19,6 +19,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/-ScikitLearn-yellow?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Tensorflow](https://img.shields.io/badge/-ScikitLearn-yellow?style=for-the-badge&logo=scikit-learn&logoColor=blue)
+![PyTorch](https://img.shields.io/badge/-ScikitLearn-yellow?style=for-the-badge&logo=scikit-learn&logoColor=yellow)
 
 **Tools**
 
