@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![GitLab](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Git hub stats
 ### 🔥 Streak Stats & Languages
